@@ -27,5 +27,5 @@ pip-log.txt
 .mr.developer.cfg
 
 /config.pyc
-/config.py
-/iam.policy
+#/config.py
+#/iam.policy
